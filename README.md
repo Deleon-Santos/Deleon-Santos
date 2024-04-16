@@ -1,10 +1,9 @@
 # 👋 Hello! World, Eu sou Deleon Santos!
 
-<img src="link_para_sua_imagem_aqui" alt="Foto de Deleon Santos" width="200"/>
 
-Olá! Me chamo Deleon Santos, estudante de tecnologia e entusiasta de desenvolvimento de sistemas. Atualmente, estou mergulhando no mundo da programação utilizando várias linguagens e tecnologias.
+Sou desenvolvedor fullstack e estou mergulhando no mundo da programação utilizando várias linguagens e tecnologias.
 
-## 📚 Estudante de Tecnologia
+## 📚 Estudo e Tecnologias
 
 - 🎓 Estou cursando Análise e Desenvolvimento de Sistemas.
 - 💻 Tenho paixão por codar em:
