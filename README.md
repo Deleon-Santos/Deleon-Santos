@@ -22,4 +22,4 @@ Todos os projetos em meu repositório estão em constante evolução. Adoraria r
 
 ---
 
-⭐️ Deixe um comentário, sugestão ou solução que possa ser implementada! Vamos criar coisas incríveis juntos.
+⭐️ Deixe um comentário, sugestão ou solução que possa ser implementada! Vamos criar coisas incríveis juntos.😁
