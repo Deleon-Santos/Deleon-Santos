@@ -1,4 +1,4 @@
-# 👋 Hello! World, Eu sou Deleon Santos!
+ # 👋 Hello! World, Eu sou Deleon Santos!
 
 
 Sou desenvolvedor fullstack e estou mergulhando no mundo da programação utilizando várias linguagens e tecnologias.
@@ -18,7 +18,7 @@ Estou constantemente explorando e aprendendo novas tecnologias. Aqui você encon
 
 ## 💞️ Colaboração é Bem-Vinda
 
-Todos os projetos em meu repositório estão em constante evolução. Adoraria receber feedbacks, sugestões e até colaborações para torná-los ainda melhores!
+Todos os projetos em meu repositório estão em constante evolução. Adoraria receber feedbacks,  sugestões e até colaborações para torná-los ainda melhores!
 
 ---
 
