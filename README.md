@@ -12,7 +12,7 @@ Sou desenvolvedor fullstack e estou mergulhado no mundo da programação utiliza
   - JavaScript 🟨
   - SQL 🛢️
 
-## 👀 Sempre Aprendendo
+## 👀 Sempre Aprendendo:
 
 Estou constantemente explorando e aprendendo novas tecnologias. Aqui você encontrará meus projetos e experimentos em desenvolvimento contínuo.
 
