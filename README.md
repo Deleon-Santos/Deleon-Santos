@@ -1,7 +1,7 @@
  # 👋 Hello! World, Eu sou Deleon Santos!
 
 
-Sou desenvolvedor fullstack e estou mergulhado no mundo da programação utilizando várias linguagens e tecnologias.
+Sou desenvolvedor Back-End e estou mergulhado no mundo da programação utilizando várias linguagens e tecnologias.
 
 ## 📚 Estudo e Tecnologias
 
