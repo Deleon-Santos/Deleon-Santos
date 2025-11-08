@@ -1,7 +1,7 @@
  # 👋 Hello! World, Eu sou Deleon Santos!
 
 
-Sou desenvolvedor Back-End e estou mergulhado no mundo da programação utilizando várias linguagens e tecnologias.
+Sou desenvolvedor Full stack, crio telas flexiveis e back end robustos usando as melhores praticas de desenvolvimento.
 
 ## 📚 Estudo e Tecnologias
 
