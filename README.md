@@ -20,7 +20,7 @@ Estou explorando novas tecnologias, frameworks e metodologias para desenvolver a
 
 Nos meus repositórios você encontrará projetos, estudos, experimentos e tudo o que faz parte da minha evolução como desenvolvedor.
 
-## 🤝 Colaborações, sugestões e críticas cnstrutivas São Bem-Vindas!
+## 🤝 Colaborações, sugestões e críticas construtivas São Bem-Vindas!
 
 Meus projetos estão em constante melhoria. Fique à vontade para:
 
