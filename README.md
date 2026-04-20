@@ -1,6 +1,6 @@
 # 👋 Olá, mundo! Eu sou **Deleon Santos**
 
-Sou **Desenvolvedor Full Stack**, do front-end responsivo ao back-end robusto meu objetivo é Transformar uma idia e um sistemas funcional, performático e fáceil de manter.
+Sou **Desenvolvedor Full Stack**, do front-end responsivo ao back-end robusto, o meu objetivo é Transformar uma ideia e um sistemas funcional, performático e fáceil de manter.
 
 ## 📚 Formação & Tecnologias
 
