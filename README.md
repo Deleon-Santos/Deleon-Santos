@@ -1,4 +1,4 @@
-# Olá, mundo 👋 ! Eu sou **Deleon Santos**
+# Olá, mundo! Eu sou **Deleon Santos** 👋
 
 Sou **Desenvolvedor Full Stack**, do front-end responsivo ao back-end robusto o meu objetivo é transformar uma ideia e um sistemas funcional, performático e fáceil de manter.
 
